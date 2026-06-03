@@ -15,10 +15,10 @@
 > [![My Skills](https://skillicons.dev/icons?i=nodejs,git,vscode,github,vim,linux&theme=dark)](https://skillicons.dev)
 >
 > ### Hardware
-> [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
-> ![ESP32](https://img.shields.io/badge/ESP32-C6%20%7C%20S3-informational?style=flat&logo=espressif&logoColor=white&color=e7352c)
-> ![STM32](https://img.shields.io/badge/STM32-informational?style=flat&logo=stmicroelectronics&logoColor=white&color=03234B)
-> ![PlatformIO](https://img.shields.io/badge/PlatformIO-informational?style=flat&logo=platformio&logoColor=white&color=F5822A)
+> ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+> ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+> ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+> ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 >
 > ---
 >
