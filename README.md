@@ -22,17 +22,6 @@
 >
 > ---
 >
-> ## 📡 Protocols & Hardware Expertise
->
-> ![Modbus](https://img.shields.io/badge/Modbus_RTU%2FTCP-informational?style=flat&color=0d6efd)
-> ![MQTT](https://img.shields.io/badge/MQTT-informational?style=flat&color=660066)
-> ![UART](https://img.shields.io/badge/UART-informational?style=flat&color=333333)
-> ![ESP32](https://img.shields.io/badge/ESP32-C6%20%7C%20S3-informational?style=flat&color=e7352c)
-> ![Node-RED](https://img.shields.io/badge/Node--RED-informational?style=flat&logo=nodered&color=8F0000)
-> ![Siemens LOGO](https://img.shields.io/badge/Siemens_LOGO!_8.4-informational?style=flat&color=009999)
->
-> ---
->
 > ## 🚀 Featured Projects
 >
 > | Project | Description | Tech |
@@ -44,7 +33,6 @@
 > | [NodeRED_LOGO8.4](https://github.com/patthananb/NodeRED_LOGO8.4) | Node-RED with Siemens LOGO 8.4! via MODBUS TCP | JavaScript |
 > | [Digital-Fault-Recorder](https://github.com/patthananb/Digital-Fault-Recorder) | Senior project: Digital Fault Recorder system | JavaScript |
 > | [Oscilloscope-Reading](https://github.com/patthananb/Oscilloscope-Reading) | Rigol oscilloscope data reader | Rust |
-> | [Embedded-IoT-Handbook](https://github.com/patthananb/Embedded-IoT-Handbook) | A handbook for Embedded & IoT engineers | — |
 >
 > ---
 >
