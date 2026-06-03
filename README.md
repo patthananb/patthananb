@@ -33,23 +33,16 @@
 > | [NodeRED_LOGO8.4](https://github.com/patthananb/NodeRED_LOGO8.4) | Node-RED with Siemens LOGO 8.4! via MODBUS TCP | JavaScript |
 > | [Digital-Fault-Recorder](https://github.com/patthananb/Digital-Fault-Recorder) | Senior project: Digital Fault Recorder system | JavaScript |
 > | [Oscilloscope-Reading](https://github.com/patthananb/Oscilloscope-Reading) | Rigol oscilloscope data reader | Rust |
+> | [Embedded-IoT-Handbook](https://github.com/patthananb/Embedded-IoT-Handbook) | A handbook for Embedded & IoT engineers | — |
 >
 > ---
 >
-> ## 📊 GitHub Stats
+> ## 📫 Connect with Me
 >
-> <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patthananb&show_icons=true&theme=dark&hide_border=true" height="160"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patthananb&layout=compact&theme=dark&hide_border=true&langs_count=8" height="160"/>
-    </p>
+> - 📍 Bangkok, Thailand (UTC +07:00)
+> - 🐙 GitHub: [@patthananb](https://github.com/patthananb)
+> - 📧 Email: patthanan.bh@gmail.com
 
-    ---
+---
 
-    ## 📫 Connect with Me
-
-    - 📍 Bangkok, Thailand (UTC +07:00)
-    - 🐙 GitHub: [@patthananb](https://github.com/patthananb)
-
-    ---
-
-    *"If it compiles, ship it."* 🚢
+*"If it compiles, ship it."* 🚢
