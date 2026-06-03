@@ -12,10 +12,13 @@
 > [![My Skills](https://skillicons.dev/icons?i=cpp,c,js,python,rust,html,vhdl&theme=dark)](https://skillicons.dev)
 >
 > ### Platforms & Tools
-> [![My Skills](https://skillicons.dev/icons?i=arduino,nodejs,git,vscode,github,vim,linux&theme=dark)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=nodejs,git,vscode,github,vim,linux&theme=dark)](https://skillicons.dev)
 >
-> ![PlatformIO](https://img.shields.io/badge/PlatformIO-informational?style=flat&logo=platformio&logoColor=white&color=F5822A)
+> ### Hardware
+> [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
+> ![ESP32](https://img.shields.io/badge/ESP32-C6%20%7C%20S3-informational?style=flat&logo=espressif&logoColor=white&color=e7352c)
 > ![STM32](https://img.shields.io/badge/STM32-informational?style=flat&logo=stmicroelectronics&logoColor=white&color=03234B)
+> ![PlatformIO](https://img.shields.io/badge/PlatformIO-informational?style=flat&logo=platformio&logoColor=white&color=F5822A)
 >
 > ---
 >
