@@ -9,7 +9,7 @@
 > ## 🛠️ Tech Stack
 >
 > ### Languages
-> [![My Skills](https://skillicons.dev/icons?i=cpp,c,js,python,rust,html,vhdl&theme=dark)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=cpp,c,rust,js,python,html,vhdl&theme=dark)](https://skillicons.dev)
 >
 > ### Platforms & Tools
 > [![My Skills](https://skillicons.dev/icons?i=nodejs,git,vscode,github,vim,linux&theme=dark)](https://skillicons.dev)
